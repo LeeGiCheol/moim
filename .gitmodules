@@ -1,0 +1,3 @@
+[submodule "src/main/moim-front"]
+	path = src/main/moim-front
+	url = https://github.com/LeeGiCheol/moim-front
